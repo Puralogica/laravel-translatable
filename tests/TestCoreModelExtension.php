@@ -163,6 +163,7 @@ class TestCoreModelExtension extends TestsBase {
         $this->assertEquals(count($before), count($after));
     }
 
+
     /**
      * @test
      */
